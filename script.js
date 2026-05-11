@@ -290,9 +290,7 @@ new THREE.MeshStandardMaterial({
 // AXES
 // ======================================================
 
-scene.add(
-    new THREE.AxesHelper(5)
-);
+    //scene.add(new THREE.AxesHelper(5));
 
 
 // ======================================================
